@@ -4,6 +4,7 @@
 *.exe
 Timber
 pong/Pong
+zombiearena/ZombieArena
 
 # Build directories
 build/
