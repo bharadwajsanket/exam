@@ -2,33 +2,28 @@
 
 ## Setup
 
-```bash
 bash setup.sh
-```
 
 ## Build
 
-```bash
 bash build.sh
-```
 
 ## Run
 
-```bash
 bash run.sh
-```
 
 ## Assets
 
-- graphics/
-- sound/
-- font/
+graphics/
+sound/
+font/
 
-## Exam Notes
+## Revision
 
 Read:
 
-- QUICK_REFERENCE.md
-- SNIPPET_LIBRARY.md
+QUICK_REFERENCE.md
 
-Nothing else.
+SNIPPET_LIBRARY.md
+
+Nothing more.
