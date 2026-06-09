@@ -3,6 +3,7 @@
 *.out
 *.exe
 Timber
+pong/Pong
 
 # Build directories
 build/
