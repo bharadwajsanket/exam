@@ -9,9 +9,13 @@ A practical exam repository containing complete SFML game projects, revision not
 - ✅ ZombieArena
 
 ## Repository Structure
-
-text exam/ ├── timberman/ ├── pong/ ├── zombiearena/ └── imp-questions/ 
-
+```
+text exam/
+    ├── timberman/
+    ├── pong/
+    ├── zombiearena/
+    └── imp-questions/ 
+```
 Each project contains:
 
 - Source Code
@@ -27,21 +31,21 @@ Each project contains:
 ## Quick Start
 
 Clone the repository:
-
+```
 bash git clone https://github.com/bharadwajsanket/exam.git cd exam 
-
+```
 ### TimberMan
-
+```
 bash cd timberman bash setup.sh bash build.sh bash run.sh 
-
+```
 ### Pong
-
+```
 bash cd pong bash setup.sh bash build.sh bash run.sh 
-
+```
 ### ZombieArena
-
+```
 bash cd zombiearena bash setup.sh bash build.sh bash run.sh 
-
+```
 ---
 
 ## Revision Resources
